@@ -1,0 +1,162 @@
+body{
+	font-family: Arial;
+	font-size: 15px;
+	font-style: italic;
+	line-height: 1.5;
+	padding:0;
+	margin: 0;
+	background-color: #f4f4f4;
+}
+/* Gloabl */
+.container{
+	width: 80%;
+	margin: auto;
+	overflow: hidden;
+}
+
+/* header */
+header{
+	background: orange;
+	color: #ffffff;
+	padding-top: 30px;
+	min-height: 70px;
+	border-bottom: black 3px solid;
+}
+
+header a{
+	color: white;
+	text-decoration: none;
+	text-transform: uppercase;
+	font-size: 16px;
+}
+header ul{
+	margin: 0;
+	padding: 0;
+}
+
+header li{
+	float: right;
+	display: inline;
+	padding: 0 20px 0 20px;
+}
+
+#section1{
+	min-height: 400px;
+	text-align: center;
+	background-color: #f2e6d9;
+}
+#section1 p{
+	margin-top: 100px;
+	font-size: 40px;
+	margin-bottom: 10px;
+}
+
+#section2{
+	min-height: 350px;
+	text-align: center;
+	background-color: #80bfff;
+}
+#section2 p{
+	margin-top: 100px;
+	font-size: 30px;
+	margin-bottom: 100px;
+}
+
+
+
+/*body{
+	background-color:#f4f4f4;
+	color:#555;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:16px;
+	line-height:1.6em;
+	margin: 0;
+	padding:0;
+
+}
+
+p,q,h1,ul{
+	margin:0;
+	padding:0;
+}
+
+ul{
+	margin:0;
+	padding: 0;
+}
+
+#navbar{
+	background-color: #FF6633;
+	color: 	#FFFFFF;
+	padding: 0;
+	margin-top: 0;
+}
+
+#navbar ul{
+	padding: 10px 0;
+
+}
+
+#navbar li{
+	display: inline-block;
+}
+
+header h1{
+	text-align: left;
+
+}
+
+#main{
+	display: inline-block;
+
+	border-width: 200px;
+}
+
+header ul{
+	padding:0;
+	list-style: none;
+	text-align: right;
+}
+
+header li{
+	display: inline;
+
+}
+
+#navbar a{
+	color: #FFFFFF;
+	text-decoration: none;
+	font-size: 18px;
+	padding-right:15px;
+	margin-top: 20px;
+	text-align: right;
+}
+
+#main p{
+	margin-top: 15px;
+	border-top-color: black;
+	text-align: center;
+	padding-top: 100px;
+	padding-bottom: 100px;
+	padding-left: 100px;
+	padding-right: 100px;
+	background-color: #FF6666;
+}
+
+#main q{
+	font-size: 20px;
+}
+
+#main cite{
+	color: white;
+	font-size: 20px;
+}
+#about{
+	display: inline-block;
+	padding-top: 10px;
+	float:left;
+	background-color:red;
+}
+#about p{
+	float: center;
+}*/

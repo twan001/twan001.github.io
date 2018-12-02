@@ -1,0 +1,101 @@
+body{
+	font-family: Futura;
+	font-size: 15px;
+	line-height: 1.5;
+	padding:0;
+	margin: 0;
+	background-color: #f4f4f4;
+}
+/* Gloabl */
+.container{
+	width: 80%;
+	margin: auto;
+	overflow: hidden;
+}
+
+/* header */
+header{
+	background: orange;
+	color: #ffffff;
+	padding-top: 30px;
+	min-height: 70px;
+	border-bottom: black 3px solid;
+}
+
+header a{
+	color: white;
+	text-decoration: none;
+	text-transform: uppercase;
+	font-size: 16px;
+}
+header ul{
+	margin: 0;
+	padding: 0;
+}
+
+header li{
+	float: right;
+	display: inline;
+	padding: 0 20px 0 20px;
+}
+
+#section1{
+	min-height: 200px;
+	border-bottom: black 3px solid;
+	background-color: #cbe5f8;
+	padding-top: 10px;
+}
+.section{
+	padding-top: 10px;
+	min-height: 200px;
+	border-bottom: black 3px solid;
+	background-color: #cbe5f8;
+}
+#section2{
+	padding-top: 10px;
+	min-height: 200px;
+	border-bottom: black 3px solid;
+	background-color: #cbe5f8;
+}
+#section3{
+	padding-top: 10px;
+	min-height: 200px;
+	border-bottom: black 3px solid;
+	background-color: #cbe5f8;
+}
+#section4{
+	padding-top: 10px;
+	min-height: 200px;
+	border-bottom: black 3px solid;
+	background-color: #cbe5f8;
+}
+#section5{
+	padding-top: 10px;
+	min-height: 200px;
+	border-bottom: black 3px solid;
+	background-color: #cbe5f8;
+}
+h2{
+	text-align: center;
+	font-size: 25px;
+}
+#section1 li{
+	font-size: 20px;
+	font-family: Futura;
+}
+#section2 li{
+	font-size: 20px;
+	font-family: Futura;
+}
+#section3 li{
+	font-size: 20px;
+	font-family: Futura;
+}
+#section4 li{
+	font-size: 20px;
+	font-family: Futura;
+}
+#section5 li{
+	font-size: 20px;
+	font-family: Futura;
+}
