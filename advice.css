@@ -75,6 +75,18 @@ header li{
 	border-bottom: black 3px solid;
 	background-color: #cbe5f8;
 }
+#section6{
+	padding-top: 10px;
+	min-height: 200px;
+	border-bottom: black 3px solid;
+	background-color: #cbe5f8;
+}
+#section7{
+	padding-top: 10px;
+	min-height: 200px;
+	border-bottom: black 3px solid;
+	background-color: #cbe5f8;
+}
 h2{
 	text-align: center;
 	font-size: 25px;
@@ -96,6 +108,14 @@ h2{
 	font-family: Futura;
 }
 #section5 li{
+	font-size: 20px;
+	font-family: Futura;
+}
+#section6 li{
+	font-size: 20px;
+	font-family: Futura;
+}
+#section7 li{
 	font-size: 20px;
 	font-family: Futura;
 }
